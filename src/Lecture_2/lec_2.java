@@ -11,7 +11,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-public class lec_2_P1 extends Application {
+public class lec_2 extends Application {
 
     @Override
     public void start(Stage stage) {
